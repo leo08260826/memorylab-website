@@ -1,4 +1,5 @@
-這是24th台大藝術季『匯憶』專案的網站，主要用`Flask`寫成。
+### A web project designed for NTUArtFest, which is made by flask
+### 這是24th台大藝術季『匯憶』專案的網站，主要用`Flask`寫成。
 
 # Start
 Install all dependencies
